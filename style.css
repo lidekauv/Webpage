@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Kantumruy', sans-serif;
+}
+
+.title {
+    text-align: center; 
+    color: #51d4c1;
+    font-size: 5rem;
+}
+
+.subtitle {
+    text-align: center; 
+    color: #e46; 
+    font-size: 3rem;
+}
+
+.btn {
+    background: #f53;
+    font-size: 24px;
+    color: #ffe;
+    margin: 0 auto;
+    display: block;
+    border-radius: 6px;
+    border: none;
+    padding: 3px 4px 3px;
+    font-family: 'Kantumruy', sans-serif;
+    box-shadow: 2px 4px #c0bdbd;
+}
